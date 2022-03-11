@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background: #F6EEE4;
+  position: absolute;
+  font-size: 15px;
+  line-height: 1.6;
+  
+
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  color: #A5A58D;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+
+
+
+
